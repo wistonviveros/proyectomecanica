@@ -11,7 +11,7 @@ class Movimiento extends Model
 
     public static function Mensaje()
     {
-    return " Mensaje de proyectomecanica Laravel 7 desde el modelo";
+    return " Mensaje de proyectomecanica Laravel 858485848484 desde el modelo";
     }
 
 }
